@@ -1,2 +1,1 @@
-# uu
-Unix to Unix encoding
+# A Unix to Unix (uu) encoding implementation in C
